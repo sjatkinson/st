@@ -3,3 +3,4 @@ st
 config.h
 patches
 *.orig
+tags
